@@ -1,5 +1,9 @@
 ---
 title: Inheriting methods' docstrings in Python
+categories: 
+  - [Python, motosport]
+tags: 
+  - Python
 ---
 
 This is a variation on Paul McGuire's DocStringInheritor metaclass.
