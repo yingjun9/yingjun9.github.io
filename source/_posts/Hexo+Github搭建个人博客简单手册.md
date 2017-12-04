@@ -4,7 +4,7 @@ categories:
   - Hexo
 tags: 
   - Hexo
-
+date: 2017-12-04 14:36:21
 ---
 
 近期想多点备份自己的笔记，就盯上了Github+Hexo这种博客模式。 我想Github的数据应该不可能丢失的。

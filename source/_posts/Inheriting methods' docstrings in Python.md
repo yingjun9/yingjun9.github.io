@@ -4,6 +4,8 @@ categories:
   - [Python, motosport]
 tags: 
   - Python
+date: 2017-11-04 11:36:21
+
 ---
 
 This is a variation on Paul McGuire's DocStringInheritor metaclass.
